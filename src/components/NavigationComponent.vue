@@ -1,8 +1,8 @@
 <template>
     <nav class="navbar fixed-top top-nav-collapse">
-            <div class="container sm:px-4 lg:px-8 flex flex-wrap items-center justify-between lg:flex-nowrap">
+            <div class="container sm:px-4 lg:pr-8 flex flex-wrap items-center justify-between lg:flex-nowrap">
                 
-                <a class="inline-block mr-4 py-0.5 text-xl whitespace-nowrap hover:no-underline focus:no-underline" href="/">
+                <a class="inline-block py-0.5  mt-5 text-xl whitespace-nowrap hover:no-underline focus:no-underline" href="/">
                    Wealthy Muslimah
                 </a>
 
